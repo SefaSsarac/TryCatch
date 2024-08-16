@@ -1,0 +1,1 @@
+Bu C# uygulaması, kullanıcıdan bir sayı girmesini isteyen ve girilen sayının karesini ekrana yazdıran basit bir programdır. Kullanıcı geçersiz bir giriş (sayı yerine harf, sembol vb.) yaparsa, bir hata mesajı gösterilir.
